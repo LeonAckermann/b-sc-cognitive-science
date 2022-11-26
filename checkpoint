@@ -1,0 +1,2 @@
+model_checkpoint_path: "subtask2_trained_model_RUN2"
+all_model_checkpoint_paths: "subtask2_trained_model_RUN2"
